@@ -1,8 +1,5 @@
 Hello There!
 
-![#IMPORTANT]
-This is a test
-
 I'm Kapios,
 The Master of the blobs.
 
